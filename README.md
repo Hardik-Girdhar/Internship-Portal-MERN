@@ -45,9 +45,11 @@ Personal details are visible to the user on their dashboard.
 ## Database
 Utilizes MongoDB to store user information and opportunities data.
 
-##Deployment
+## Deployment
+
 Deployed on a cloud platform such as Heroku or AWS to make the application accessible online.
 
-##Constraints
+## Constraints
+
 Prioritize functionality over advanced features or extensive styling.
 Ensure code quality and readability.
