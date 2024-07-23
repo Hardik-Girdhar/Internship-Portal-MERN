@@ -7,26 +7,39 @@ This project is a job opportunities portal that allows users to register, log in
 ### Login & Registration Page
 
 User authentication using JWT for secure registration, login, and logout functionalities.
+
 Securely store user credentials and session information.
 
 ### Opportunities Page
 
 Viewable by both logged-in and logged-out users.
+
 Only logged-in users can apply for opportunities.
+
 Logged-out users are redirected to the login page when attempting to apply.
+
 Opportunities are fetched from opportunities.json and stored in a local database.
+
 Each opportunity contains:
+
 Profile name
+
 Company name
+
 Stipend
+
 Location
+
 Duration
+
 Start date
+
 Logged-in users can see their applied opportunities.
 
 ### Dashboard Page
 
 Allows users to add personal details such as name, age, date of birth, image, and other information.
+
 Personal details are visible to the user on their dashboard.
 
 ## Database
