@@ -1,0 +1,591 @@
+{
+    "Internships": [
+      {
+        "Company": "Google",
+        "Role": "Software Engineer Intern",
+        "Location": {
+          "Office": "Gurgaon, India",
+          "Stipend": "₹ 20,000 /month"
+        },
+        "Internship": {
+          "Location": "Banga, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Microsoft",
+        "Role": "Data Analyst Intern",
+        "Location": {
+          "Office": "Hyderabad, India",
+          "Stipend": "₹ 25,000 /month"
+        },
+        "Internship": {
+          "Location": "Manila, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Amazon",
+        "Role": "Marketing Intern",
+        "Location": {
+          "Office": "Bangalore, India",
+          "Stipend": "₹ 22,000 /month"
+        },
+        "Internship": {
+          "Location": "Cebu, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Facebook",
+        "Role": "UX/UI Design Intern",
+        "Location": {
+          "Office": "Mumbai, India",
+          "Stipend": "₹ 24,000 /month"
+        },
+        "Internship": {
+          "Location": "Quezon City, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Apple",
+        "Role": "Hardware Engineer Intern",
+        "Location": {
+          "Office": "Delhi, India",
+          "Stipend": "₹ 30,000 /month"
+        },
+        "Internship": {
+          "Location": "Davao City, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Tesla",
+        "Role": "Mechanical Engineer Intern",
+        "Location": {
+          "Office": "Chennai, India",
+          "Stipend": "₹ 28,000 /month"
+        },
+        "Internship": {
+          "Location": "Makati, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Netflix",
+        "Role": "Content Writer Intern",
+        "Location": {
+          "Office": "Kolkata, India",
+          "Stipend": "₹ 18,000 /month"
+        },
+        "Internship": {
+          "Location": "Pasig, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Adobe",
+        "Role": "Graphic Designer Intern",
+        "Location": {
+          "Office": "Pune, India",
+          "Stipend": "₹ 21,000 /month"
+        },
+        "Internship": {
+          "Location": "Taguig, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Intel",
+        "Role": "Research Intern",
+        "Location": {
+          "Office": "Noida, India",
+          "Stipend": "₹ 26,000 /month"
+        },
+        "Internship": {
+          "Location": "Mandaluyong, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "IBM",
+        "Role": "AI Research Intern",
+        "Location": {
+          "Office": "Ahmedabad, India",
+          "Stipend": "₹ 27,000 /month"
+        },
+        "Internship": {
+          "Location": "Cagayan de Oro, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Oracle",
+        "Role": "Database Administrator Intern",
+        "Location": {
+          "Office": "Jaipur, India",
+          "Stipend": "₹ 23,000 /month"
+        },
+        "Internship": {
+          "Location": "Bacolod, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Salesforce",
+        "Role": "Cloud Engineer Intern",
+        "Location": {
+          "Office": "Surat, India",
+          "Stipend": "₹ 25,000 /month"
+        },
+        "Internship": {
+          "Location": "Antipolo, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "SAP",
+        "Role": "ERP Consultant Intern",
+        "Location": {
+          "Office": "Lucknow, India",
+          "Stipend": "₹ 24,000 /month"
+        },
+        "Internship": {
+          "Location": "Zamboanga, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Uber",
+        "Role": "Operations Intern",
+        "Location": {
+          "Office": "Patna, India",
+          "Stipend": "₹ 20,000 /month"
+        },
+        "Internship": {
+          "Location": "Las Piñas, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "PayPal",
+        "Role": "Finance Intern",
+        "Location": {
+          "Office": "Bhopal, India",
+          "Stipend": "₹ 22,000 /month"
+        },
+        "Internship": {
+          "Location": "General Santos, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Twitter",
+        "Role": "Communications Intern",
+        "Location": {
+          "Office": "Gandhinagar, India",
+          "Stipend": "₹ 19,000 /month"
+        },
+        "Internship": {
+          "Location": "Valenzuela, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Snapchat",
+        "Role": "Product Management Intern",
+        "Location": {
+          "Office": "Raipur, India",
+          "Stipend": "₹ 23,000 /month"
+        },
+        "Internship": {
+          "Location": "Muntinlupa, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Spotify",
+        "Role": "Music Curator Intern",
+        "Location": {
+          "Office": "Ranchi, India",
+          "Stipend": "₹ 20,000 /month"
+        },
+        "Internship": {
+          "Location": "Parañaque, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Airbnb",
+        "Role": "Community Support Intern",
+        "Location": {
+          "Office": "Bhubaneswar, India",
+          "Stipend": "₹ 21,000 /month"
+        },
+        "Internship": {
+          "Location": "Iloilo, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "LinkedIn",
+        "Role": "Recruitment Intern",
+        "Location": {
+          "Office": "Amritsar, India",
+          "Stipend": "₹ 24,000 /month"
+        },
+        "Internship": {
+          "Location": "Butuan, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Uber",
+        "Role": "Business Development Intern",
+        "Location": {
+          "Office": "Nagpur, India",
+          "Stipend": "₹ 22,000 /month"
+        },
+        "Internship": {
+          "Location": "San Juan, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Netflix",
+        "Role": "Social Media Intern",
+        "Location": {
+          "Office": "Vijayawada, India",
+          "Stipend": "₹ 20,000 /month"
+        },
+        "Internship": {
+          "Location": "Angeles, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Adobe",
+        "Role": "Front-End Developer Intern",
+        "Location": {
+          "Office": "Mysore, India",
+          "Stipend": "₹ 23,000 /month"
+        },
+        "Internship": {
+          "Location": "Dagupan, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Apple",
+        "Role": "Software Testing Intern",
+        "Location": {
+          "Office": "Coimbatore, India",
+          "Stipend": "₹ 25,000 /month"
+        },
+        "Internship": {
+          "Location": "Tarlac, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Tesla",
+        "Role": "Renewable Energy Intern",
+        "Location": {
+          "Office": "Kochi, India",
+          "Stipend": "₹ 26,000 /month"
+        },
+        "Internship": {
+          "Location": "Santa Rosa, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Intel",
+        "Role": "Embedded Systems Intern",
+        "Location": {
+          "Office": "Thiruvananthapuram, India",
+          "Stipend": "₹ 28,000 /month"
+        },
+        "Internship": {
+          "Location": "Lipa, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "IBM",
+        "Role": "Cybersecurity Intern",
+        "Location": {
+          "Office": "Guwahati, India",
+          "Stipend": "₹ 24,000 /month"
+        },
+        "Internship": {
+          "Location": "Binan, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Oracle",
+        "Role": "Network Engineer Intern",
+        "Location": {
+          "Office": "Visakhapatnam, India",
+          "Stipend": "₹ 23,000 /month"
+        },
+        "Internship": {
+          "Location": "Tuguegarao, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "SAP",
+        "Role": "Business Analyst Intern",
+        "Location": {
+          "Office": "Madurai, India",
+          "Stipend": "₹ 22,000 /month"
+        },
+        "Internship": {
+          "Location": "Lucena, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "PayPal",
+        "Role": "Customer Service Intern",
+        "Location": {
+          "Office": "Agra, India",
+          "Stipend": "₹ 21,000 /month"
+        },
+        "Internship": {
+          "Location": "Olongapo, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Twitter",
+        "Role": "Content Strategist Intern",
+        "Location": {
+          "Office": "Varanasi, India",
+          "Stipend": "₹ 19,000 /month"
+        },
+        "Internship": {
+          "Location": "Roxas, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Snapchat",
+        "Role": "Creative Intern",
+        "Location": {
+          "Office": "Aurangabad, India",
+          "Stipend": "₹ 20,000 /month"
+        },
+        "Internship": {
+          "Location": "Calamba, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Spotify",
+        "Role": "Event Planning Intern",
+        "Location": {
+          "Office": "Solapur, India",
+          "Stipend": "₹ 22,000 /month"
+        },
+        "Internship": {
+          "Location": "Batangas, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Airbnb",
+        "Role": "Hospitality Management Intern",
+        "Location": {
+          "Office": "Srinagar, India",
+          "Stipend": "₹ 24,000 /month"
+        },
+        "Internship": {
+          "Location": "San Pablo, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "LinkedIn",
+        "Role": "Learning & Development Intern",
+        "Location": {
+          "Office": "Rajkot, India",
+          "Stipend": "₹ 23,000 /month"
+        },
+        "Internship": {
+          "Location": "Taytay, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Google",
+        "Role": "SEO Intern",
+        "Location": {
+          "Office": "Udaipur, India",
+          "Stipend": "₹ 21,000 /month"
+        },
+        "Internship": {
+          "Location": "Naga, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Microsoft",
+        "Role": "Cloud Computing Intern",
+        "Location": {
+          "Office": "Tiruchirappalli, India",
+          "Stipend": "₹ 25,000 /month"
+        },
+        "Internship": {
+          "Location": "Baguio, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Amazon",
+        "Role": "Supply Chain Intern",
+        "Location": {
+          "Office": "Jodhpur, India",
+          "Stipend": "₹ 26,000 /month"
+        },
+        "Internship": {
+          "Location": "Navotas, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Facebook",
+        "Role": "Social Impact Intern",
+        "Location": {
+          "Office": "Puducherry, India",
+          "Stipend": "₹ 24,000 /month"
+        },
+        "Internship": {
+          "Location": "Marikina, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Apple",
+        "Role": "AR/VR Development Intern",
+        "Location": {
+          "Office": "Jabalpur, India",
+          "Stipend": "₹ 28,000 /month"
+        },
+        "Internship": {
+          "Location": "Malolos, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Tesla",
+        "Role": "Automotive Engineering Intern",
+        "Location": {
+          "Office": "Gwalior, India",
+          "Stipend": "₹ 30,000 /month"
+        },
+        "Internship": {
+          "Location": "Meycauayan, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Netflix",
+        "Role": "Film Production Intern",
+        "Location": {
+          "Office": "Vellore, India",
+          "Stipend": "₹ 22,000 /month"
+        },
+        "Internship": {
+          "Location": "Puerto Princesa, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Adobe",
+        "Role": "Content Marketing Intern",
+        "Location": {
+          "Office": "Tirupati, India",
+          "Stipend": "₹ 21,000 /month"
+        },
+        "Internship": {
+          "Location": "Ozamiz, Philippines",
+          "Duration": "2 Months",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "Intel",
+        "Role": "DevOps Intern",
+        "Location": {
+          "Office": "Dhanbad, India",
+          "Stipend": "₹ 25,000 /month"
+        },
+        "Internship": {
+          "Location": "Dagupan, Philippines",
+          "Duration": "1 Month",
+          "StartDate": "Starts Immediately"
+        }
+      },
+      {
+        "Company": "IBM",
+        "Role": "Quantum Computing Intern",
+        "Location": {
+          "Office": "Jammu, India",
+          "Stipend": "₹ 27,000 /month"
+        },
+        "Internship": {
+          "Location": "Naga, Philippines",
+          "Duration": "3 Months",
+          "StartDate": "Starts Immediately"
+        }
+      }
+    ]
+}
+      
+  
